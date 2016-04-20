@@ -1,0 +1,90 @@
+﻿
+#entete .in, #corps .in{
+	width:960px;
+	margin:0 auto;
+	height:92px;
+}
+
+#menuhaut span, li{
+	float:left;
+	width:auto;
+	margin-right:20px;
+}
+
+#menuhaut a{
+	text-decoration : none;
+	color:black;
+	font-weight:bold;
+	
+}
+
+#bandeau{
+	margin-top:100px;
+	width:100%;
+	position:relative;
+	background-color:#f00;
+	height:370px;
+}
+
+#bandeau h2{
+	width:auto;
+	text-align: center;
+}
+
+#diaporama{
+	display:block;
+	position : absolute;
+	margin:0 auto;
+}
+
+h1{
+	font-size: 24px;
+	margin-bottom:20px;
+	font-weight:bold;
+}
+
+h3{
+	font-size: 16px;
+	line-height :30px;
+}
+
+ol,ul {
+	list-style-position:inside;
+}
+
+li{
+	list-style-type: none;
+}
+
+#miniatures li{
+	float:left;
+	width:300px;
+	height: 380px;
+	margin:0px;
+}
+
+#miniatures h3{
+	color:blue;
+}
+
+#miniatures h4{
+	font-size:10px;
+}
+
+#boxbas li{
+	float:left;
+	width:290px;
+	height: 380px;
+}
+
+#reseaux li{
+	float:left;
+	margin:4px;
+	width:35px;
+}
+
+#newsup li{
+	width:auto;
+}
+
+
